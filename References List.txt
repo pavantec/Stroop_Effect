@@ -1,0 +1,23 @@
+1. To find out why there is a change in response times and alternate experiements. 
+
+https://faculty.washington.edu/chudler/words.html
+
+2. Markdown Syntax 
+
+http://daringfireball.net/projects/markdown/syntax#p
+
+3. Chopsticks Example
+
+To understand how to read data from csv file. 
+
+4. To understand how to plot histograms using matplotlib
+
+http://matplotlib.org/users/pyplot_tutorial.html
+
+5. To understand how to display two histograms together
+
+ http://stackoverflow.com/questions/6871201/plot-two-histograms-at-the-same-time-with-matplotlib
+
+6. LaTeX Syntax reference
+
+http://latex.wikia.com/wiki/List_of_LaTeX_symbols
